@@ -1,6 +1,6 @@
 *Modern Button
 
-This project showcases a stylish, animated button created using HTML and CSS. The button features a hover effect that reveals a dark overlay, enhancing its interactivity and visual appeal. It's a great addition to any web application or landing page.
+This project showcases a stylish, animated button created using HTML and CSS. The button features a hover effect that reveals a dark overlay, enhancing its interactivity and visual appeal. It's a great addition to any web application or landing page..
 
 *Features
 
